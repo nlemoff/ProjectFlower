@@ -2,7 +2,7 @@
 venv/
 
 # Ignore IDE-specific settings
-.idea/
+/.idea/
 
 # Ignore Python cache files
 __pycache__/
@@ -10,4 +10,3 @@ __pycache__/
 
 # Ignore OS-specific files
 .DS_Store
-/.idea/
